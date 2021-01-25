@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version => 2.7.0
 
-* System dependencies => [GemFile] https://github.com/adalbertobrant/treinadev05/blob/main/Gemfile 
+* System dependencies => [GemFile](https://github.com/adalbertobrant/treinadev05/blob/main/Gemfile)
 
 * Configuration
 
