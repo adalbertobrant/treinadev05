@@ -9,7 +9,7 @@ Things you may want to cover:
 
 * System dependencies => [GemFile](https://github.com/adalbertobrant/treinadev05/blob/main/Gemfile)
 
-* Configuration
+* Configuration => [config/application.rb](https://github.com/adalbertobrant/treinadev05/blob/main/config/applicatio.rb)
 
 * Database creation
 
