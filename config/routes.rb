@@ -3,6 +3,6 @@ Rails.application.routes.draw do
   #get '/', to: 'home#index'
   root 'home#index'
   #plural com plural e singular com singular, only:[:index] dar no console rails routes
-  resources :promotions, only: %i[index] # ou [:index]=> que é um symbol
+  resources :promotions, only: %i[index show] # ou [:index]=> que é um symbol
 
 end

@@ -1,0 +1,12 @@
+<h1>Nova Promoção</h1>
+
+<%= form_with(model: Promotion.new) do |f| %>
+    <div>
+    <%= f.label :name, 'Nome' %>
+    <%= f.text_field :name %>
+    </div>
+    <div>
+    <%= f.label :description, 'Descrição' %>
+    <%= f.text_field :description %>
+    </div>
+<% end %>
